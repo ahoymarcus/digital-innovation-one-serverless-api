@@ -18,7 +18,7 @@ Dependências:
 
 
 
-### A rota 'products' sendo retornada pelo serviço a Azure e do banco de dados MongoDB:
+### A rota 'products' sendo retornada pelo serviço da Azure e do banco de dados MongoDB:
 ![](./public/images/imagem-da-rota-products.png)
 
 
