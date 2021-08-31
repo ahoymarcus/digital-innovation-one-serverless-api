@@ -18,12 +18,12 @@ Dependências:
 
 
 
-### A rota 'products' sendo retornada pelo serviço da Azure e do banco de dados MongoDB:
+### Resultado da requisição na rota sendo retornada pelo serviço da Azure e do banco de dados MongoDB:
 ![](./public/images/imagem-da-rota-products.png)
 
 
-### Resultado Final do projeto :
-
+### Resultado da requisição na rota 'products/{id}' sendo retornada pelo serviço da Azure e do banco de dados MongoDB:
+![](./public/images/imagem-da-rota-products-id.png)
 
 
 ### Resultado Final do projeto :
