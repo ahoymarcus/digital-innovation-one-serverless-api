@@ -16,14 +16,16 @@ Dependências:
 
 
 
+### Rota de entrada para o serviço na nuvem Azure da Microsof:
+![rota-de-entrada-azure-cloud](./public/images/rota-de-entrada-azure-cloud.png)
 
 
 ### Resultado da requisição na rota sendo retornada pelo serviço da Azure e do banco de dados MongoDB:
-![](./public/images/imagem-da-rota-products.png)
+![imagem-da-rota-products](./public/images/imagem-da-rota-products.png)
 
 
 ### Resultado da requisição na rota 'products/{id}' sendo retornada pelo serviço da Azure e do banco de dados MongoDB:
-![](./public/images/imagem-da-rota-products-id.png)
+![imagem-da-rota-products-id](./public/images/imagem-da-rota-products-id.png)
 
 
 ### Resultado Final do projeto :
