@@ -36,6 +36,10 @@ Dependências:
 ![imagem-da-rota-post-products](./public/images/imagem-da-rota-post-products.png)
 
 
+### Resultado da requisição na rota PUT 'products' sendo retornada pelo serviço da Azure, junto com a atualização do documento no banco de dados MongoDB:
+![imagem-da-rota-put-products](./public/images/imagem-da-rota-put-products.png)
+
+
 
 ### Resultado Final do projeto :
 
