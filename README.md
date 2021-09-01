@@ -3,7 +3,9 @@
 Construindo uma API para Gestão de Produtos utilizando Node.js, aplicando conceitos de Arquitetura Serverless com Node.js. [^1]
 
 
+
 < br/>
+
 Ferramentas:
 
 - Azure Function Core Tools
